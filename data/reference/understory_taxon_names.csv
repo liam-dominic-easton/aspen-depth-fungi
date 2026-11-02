@@ -1,0 +1,42 @@
+taxon,level,lookup,note
+graminoid,family,Poaceae,unidentified grasses
+Cirsium arvense,species,Cirsium arvense,
+Rosa acicularis,species,Rosa acicularis,
+Symphoricarpus occidentalis,genus,Symphoricarpos,S. occidentalis not in database
+Galium boreale,species,Galium boreale,
+Rubus pubescens,species,Rubus pubescens,
+Lathyrus ochroleucus,species,Lathyrus ochroleucus,
+Corylus cornuta,species,Corylus cornuta,
+Rubus idaeus,species,Rubus idaeus,
+Vicia americana,species,Vicia americana,
+Galium triflorum,species,Galium triflorum,
+Mitella nuda,species,Mitella nuda,
+Taraxicum officinale,genus,Taraxacum,T. officinale not in database
+Thalictrum vennosus,genus,Thalictrum,T. venulosum not in database
+Cornus canadensis,species,Cornus canadensis,
+Mainthemum canadense,species,Maianthemum canadense,
+Frageria virginiana,species,Fragaria virginiana,
+Aralia nudicaulis,species,Aralia nudicaulis,
+Pyrola asarifolia,species,Pyrola asarifolia,
+Actea rubra,species,Actaea rubra,
+Amelanchier alnifolia,species,Amelanchier alnifolia,
+Epilobium angustifolium,species,Epilobium angustifolium,
+Lonicera dioicia,species,Lonicera dioica,
+Carex sp,genus,Carex,identified to genus
+Juniperus communis,species,Juniperus communis,
+Smilicina stellata,species,Maianthemum stellatum,syn. Smilacina stellata
+Viola,genus,Viola,identified to genus
+Trifolium,genus,Trifolium,identified to genus
+Prunus virginina,genus,Prunus,P. virginiana not in database
+Cornus stolonifera,species,Cornus sericea,syn. Cornus stolonifera
+Sheperdia canadensis,species,Shepherdia canadensis,
+Viburnum edule,genus,Viburnum,V. edule not in database
+Ribes spp,genus,Ribes,identified to genus
+Linnaea borealis,species,Linnaea borealis,
+Petasites palmatus,species,Petasites frigidus,P. frigidus var. palmatus
+Thermopsis rhombifolia,species,Thermopsis rhombifolia,
+Apocynum androsaemifolium,species,Apocynum androsaemifolium,
+Aster sp,genus,Aster|Symphyotrichum|Eurybia,identified to genus (Aster s.l.)
+Pyrola secunda,species,Orthilia secunda,syn. Pyrola secunda
+Viburnum opulus,species,Viburnum opulus,
+Achillea millefolium,species,Achillea millefolium,
