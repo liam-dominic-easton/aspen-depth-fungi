@@ -1,0 +1,41 @@
+# Data and outputs are not distributed with this repository.
+# Only the folder structure (.gitkeep files) is tracked.
+/data/**
+!/data/**/
+!/data/**/.gitkeep
+!/data/reference/understory_taxon_names.csv
+/outputs/**
+!/outputs/**/
+!/outputs/**/.gitkeep
+
+# R
+.Rhistory
+.RData
+.Rapp.history
+.Rproj.user/
+.Ruserdata
+*.Rproj
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+*~
+
+# Large data files, wherever they are
+*.rds
+*.RDS
+*.RData
+*.fastq
+*.fastq.gz
+*.fq
+*.fq.gz
+*.fasta
+*.fasta.gz
+*.fa
+*.fa.gz
+*.fna
+*.json.gz
+*.xlsx
+*.tgz
+*.tar.gz
+*.zip
